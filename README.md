@@ -1,12 +1,11 @@
 # password-generator
-Random password generator with python
+Random password generator with Python
 
 ## Designing
-Done by using GUI for easy use
+By Graphical User Interface (GUI)
+
 
 ## Usage
-```
-Displays password on providing the minimum length required
-Also copies the password automatically to your clipboard
+User provides the length that is required for the password, taking 8 as the minimum value a dialog-box appears if the length entered is lesser than the minimum value.
+If the user wants to proceed then the password with the length preferred will be generated, else it gives the user a second chance to change the length and the password will be generated.And the generated password will be automatically copied to the clipboard.
 
-```
